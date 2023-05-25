@@ -1,0 +1,7 @@
+steps.txt
+
+------------------RMI----------------------------
+DOWNLOADING JAVA
+step 1) sudo apt install default-jdk
+step 2) sudo apt install default-jre
+step 3) java –version
